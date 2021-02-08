@@ -1,0 +1,15 @@
+/Student – таблица
+/Student(1) – по PK
+/Student(1)/Note – оценки 1-го студента
+/Student?$orderby=Name
+/Note?$filter=(Note1%20gt%205)
+
+/Student?$format=json
+/Note?$format=json		получать сущность
+/Student(2)?$format=json	получать один из элементов списка
+/Student?$filter=Id eq 3&$format=json	задать условие
+/Student?$select=Name&$format=json	вывести нек. поля
+/Student?$expand=Note&$format=json	с помощью expand можем студентам сущности добавить
+/Student?$orderby=Name&$format=json	в каком порядке
+
+

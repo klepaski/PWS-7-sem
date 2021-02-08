@@ -1,0 +1,64 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>ii</title>
+    <script src="../../Scripts/jquery-3.3.1.js"></script>
+    <script>
+        function Ajax() {
+
+            let data = {
+                Id: parseInt($("#id").val()),
+                Method: $("#method").val(),
+                Params: {
+                    Key: parseInt($("#key").val()),
+                    Value: parseInt($("#val").val())
+                }
+            };
+
+            $.ajax({
+                url: "/JRService/Single",
+                type: "POST",
+                contentType: "application/json; charset=utf-8",
+                data: JSON.stringify(data),
+                success: result => {
+                    $("#result").html(result.Result);
+                    console.log(result);
+                },
+                error: error => {
+                    console.log(error);
+                }
+            })
+        }
+    </script>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <table>
+                <tr>
+                    <td>id: </td>
+                    <td><input type="number" id="id" value="1" /></td>
+                </tr>
+                <tr>
+                    <td>method: </td>
+                    <td><input type="text" id="method" value="MulM" /></td>
+                </tr>
+                <tr>
+                    <td>key: </td>
+                    <td><input type="number" id="key" value="123" /></td>
+                </tr>
+                <tr>
+                    <td>value: </td>
+                    <td><input type="text" id="val" value="2" /></td>
+                </tr>
+                <tr>
+                    <td>result: </td>
+                    <td><div id="result" /></td>
+                </tr>
+            </table>
+            <input type="button" onclick="Ajax()" value="ajax" />
+        </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,445 @@
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\Lab_3.dll.config
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\Lab_3.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\Lab_3.pdb
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\csc.exe
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\csc.exe.config
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\csc.rsp
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\csi.exe
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\csi.exe.config
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\csi.rsp
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\System.AppContext.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\System.Collections.Immutable.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\System.Console.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\System.IO.Compression.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\System.IO.FileSystem.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\System.IO.Pipes.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\System.Reflection.Metadata.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\System.Security.AccessControl.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\System.Security.Claims.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\System.ValueTuple.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\System.Xml.XPath.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\vbc.exe
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\vbc.exe.config
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\vbc.rsp
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\VBCSCompiler.exe
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\roslyn\VBCSCompiler.exe.config
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\Microsoft.Win32.Primitives.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\netstandard.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.AppContext.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Collections.Concurrent.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Collections.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Collections.NonGeneric.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Collections.Specialized.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.ComponentModel.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.ComponentModel.EventBasedAsync.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.ComponentModel.Primitives.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.ComponentModel.TypeConverter.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Console.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Data.Common.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Diagnostics.Contracts.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Diagnostics.Debug.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Diagnostics.FileVersionInfo.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Diagnostics.Process.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Diagnostics.StackTrace.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Diagnostics.Tools.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Diagnostics.TraceSource.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Diagnostics.Tracing.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Drawing.Primitives.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Dynamic.Runtime.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Globalization.Calendars.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Globalization.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Globalization.Extensions.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.IO.Compression.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.IO.Compression.ZipFile.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.IO.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.IO.FileSystem.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.IO.FileSystem.DriveInfo.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.IO.FileSystem.Primitives.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.IO.FileSystem.Watcher.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.IO.IsolatedStorage.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.IO.MemoryMappedFiles.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.IO.Pipes.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.IO.UnmanagedMemoryStream.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Linq.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Linq.Expressions.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Linq.Parallel.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Linq.Queryable.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Net.Http.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Net.NameResolution.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Net.NetworkInformation.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Net.Ping.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Net.Primitives.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Net.Requests.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Net.Security.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Net.Sockets.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Net.WebHeaderCollection.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Net.WebSockets.Client.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Net.WebSockets.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.ObjectModel.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Reflection.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Reflection.Extensions.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Reflection.Primitives.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Resources.Reader.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Resources.ResourceManager.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Resources.Writer.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Runtime.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Runtime.Extensions.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Runtime.Handles.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Runtime.InteropServices.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Runtime.Numerics.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Runtime.Serialization.Formatters.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Runtime.Serialization.Json.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Runtime.Serialization.Primitives.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Runtime.Serialization.Xml.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Security.Claims.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Security.Cryptography.Algorithms.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Security.Cryptography.Csp.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Security.Cryptography.Encoding.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Security.Cryptography.Primitives.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Security.Cryptography.X509Certificates.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Security.Principal.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Security.SecureString.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Text.Encoding.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Text.Encoding.Extensions.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Text.RegularExpressions.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Threading.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Threading.Overlapped.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Threading.Tasks.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Threading.Tasks.Parallel.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Threading.Thread.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Threading.ThreadPool.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Threading.Timer.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.ValueTuple.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Xml.ReaderWriter.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Xml.XDocument.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Xml.XmlDocument.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Xml.XmlSerializer.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Xml.XPath.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Xml.XPath.XDocument.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\Antlr3.Runtime.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\EntityFramework.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\EntityFramework.SqlServer.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\Microsoft.Bcl.HashCode.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\Microsoft.Extensions.Configuration.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\Microsoft.Extensions.Logging.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\Microsoft.Extensions.Options.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\Microsoft.Extensions.Primitives.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\Microsoft.Web.Infrastructure.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\Newtonsoft.Json.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Buffers.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Collections.Immutable.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.ComponentModel.Annotations.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Memory.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Net.Http.Formatting.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Numerics.Vectors.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Threading.Tasks.Extensions.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Web.Helpers.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Web.Http.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Web.Http.WebHost.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Web.Mvc.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Web.Optimization.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Web.Razor.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Web.WebPages.Deployment.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Web.WebPages.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Web.WebPages.Razor.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\WebGrease.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\EntityFramework.xml
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\EntityFramework.SqlServer.xml
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\Microsoft.Bcl.HashCode.xml
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\Microsoft.Extensions.Configuration.xml
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\Microsoft.Extensions.Logging.xml
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\Microsoft.Extensions.Options.xml
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\Microsoft.Extensions.Primitives.xml
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\Newtonsoft.Json.xml
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Buffers.xml
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Collections.Immutable.xml
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Memory.xml
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Numerics.Vectors.xml
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Threading.Tasks.Extensions.xml
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Net.Http.Formatting.xml
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Web.Helpers.xml
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Web.Http.xml
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Web.Http.WebHost.xml
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Web.Mvc.xml
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Web.Optimization.xml
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Web.Razor.xml
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Web.WebPages.xml
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Web.WebPages.Deployment.xml
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\System.Web.WebPages.Razor.xml
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\Antlr3.Runtime.pdb
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.CoreCompileInputs.cache
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.CopyComplete
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\obj\Debug\Lab_3.dll
+D:\Учеба\4 курс 1 семестр\Программирование web-сервисов\Лабы\Lab_3\Lab_3\obj\Debug\Lab_3.pdb
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\Lab_3.dll.config
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\Lab_3.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\Lab_3.pdb
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\csc.exe
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\csc.exe.config
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\csc.rsp
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\csi.exe
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\csi.exe.config
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\csi.rsp
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\Microsoft.Managed.Core.targets
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\System.AppContext.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\System.Collections.Immutable.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\System.Console.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\System.IO.Compression.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\System.IO.FileSystem.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\System.IO.Pipes.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\System.Reflection.Metadata.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\System.Security.AccessControl.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\System.Security.Claims.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\System.Security.Principal.Windows.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\System.ValueTuple.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\System.Xml.XmlDocument.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\System.Xml.XPath.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\vbc.exe
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\vbc.exe.config
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\vbc.rsp
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\VBCSCompiler.exe
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\roslyn\VBCSCompiler.exe.config
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\Microsoft.Win32.Primitives.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\netstandard.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.AppContext.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Collections.Concurrent.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Collections.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Collections.NonGeneric.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Collections.Specialized.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.ComponentModel.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.ComponentModel.EventBasedAsync.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.ComponentModel.Primitives.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.ComponentModel.TypeConverter.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Console.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Data.Common.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Diagnostics.Contracts.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Diagnostics.Debug.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Diagnostics.FileVersionInfo.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Diagnostics.Process.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Diagnostics.StackTrace.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Diagnostics.TextWriterTraceListener.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Diagnostics.Tools.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Diagnostics.TraceSource.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Diagnostics.Tracing.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Drawing.Primitives.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Dynamic.Runtime.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Globalization.Calendars.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Globalization.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Globalization.Extensions.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.IO.Compression.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.IO.Compression.ZipFile.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.IO.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.IO.FileSystem.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.IO.FileSystem.DriveInfo.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.IO.FileSystem.Primitives.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.IO.FileSystem.Watcher.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.IO.IsolatedStorage.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.IO.MemoryMappedFiles.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.IO.Pipes.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.IO.UnmanagedMemoryStream.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Linq.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Linq.Expressions.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Linq.Parallel.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Linq.Queryable.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Net.Http.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Net.NameResolution.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Net.NetworkInformation.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Net.Ping.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Net.Primitives.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Net.Requests.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Net.Security.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Net.Sockets.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Net.WebHeaderCollection.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Net.WebSockets.Client.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Net.WebSockets.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.ObjectModel.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Reflection.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Reflection.Extensions.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Reflection.Primitives.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Resources.Reader.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Resources.ResourceManager.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Resources.Writer.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Runtime.CompilerServices.VisualC.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Runtime.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Runtime.Extensions.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Runtime.Handles.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Runtime.InteropServices.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Runtime.Numerics.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Runtime.Serialization.Formatters.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Runtime.Serialization.Json.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Runtime.Serialization.Primitives.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Runtime.Serialization.Xml.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Security.Claims.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Security.Cryptography.Algorithms.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Security.Cryptography.Csp.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Security.Cryptography.Encoding.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Security.Cryptography.Primitives.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Security.Cryptography.X509Certificates.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Security.Principal.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Security.SecureString.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Text.Encoding.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Text.Encoding.Extensions.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Text.RegularExpressions.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Threading.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Threading.Overlapped.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Threading.Tasks.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Threading.Tasks.Parallel.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Threading.Thread.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Threading.ThreadPool.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Threading.Timer.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.ValueTuple.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Xml.ReaderWriter.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Xml.XDocument.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Xml.XmlDocument.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Xml.XmlSerializer.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Xml.XPath.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Xml.XPath.XDocument.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\Antlr3.Runtime.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\EntityFramework.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\EntityFramework.SqlServer.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\Microsoft.Bcl.HashCode.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\Microsoft.Extensions.Caching.Abstractions.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\Microsoft.Extensions.Caching.Memory.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\Microsoft.Extensions.Configuration.Binder.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\Microsoft.Extensions.Configuration.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\Microsoft.Extensions.DependencyInjection.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\Microsoft.Extensions.Logging.Abstractions.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\Microsoft.Extensions.Logging.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\Microsoft.Extensions.Options.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\Microsoft.Extensions.Primitives.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\Microsoft.Web.Infrastructure.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\Newtonsoft.Json.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Buffers.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Collections.Immutable.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.ComponentModel.Annotations.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Diagnostics.DiagnosticSource.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Memory.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Net.Http.Formatting.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Numerics.Vectors.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Threading.Tasks.Extensions.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Web.Helpers.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Web.Http.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Web.Http.WebHost.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Web.Mvc.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Web.Optimization.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Web.Razor.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Web.WebPages.Deployment.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Web.WebPages.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Web.WebPages.Razor.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\WebGrease.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\EntityFramework.xml
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\EntityFramework.SqlServer.xml
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\Microsoft.Bcl.HashCode.xml
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\Microsoft.Extensions.Caching.Abstractions.xml
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\Microsoft.Extensions.Caching.Memory.xml
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\Microsoft.Extensions.Configuration.xml
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\Microsoft.Extensions.Configuration.Binder.xml
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\Microsoft.Extensions.DependencyInjection.xml
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\Microsoft.Extensions.Logging.xml
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\Microsoft.Extensions.Logging.Abstractions.xml
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\Microsoft.Extensions.Options.xml
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\Microsoft.Extensions.Primitives.xml
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\Newtonsoft.Json.xml
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Buffers.xml
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Collections.Immutable.xml
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Diagnostics.DiagnosticSource.xml
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Memory.xml
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Numerics.Vectors.xml
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Threading.Tasks.Extensions.xml
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Net.Http.Formatting.xml
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Web.Helpers.xml
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Web.Http.xml
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Web.Http.WebHost.xml
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Web.Mvc.xml
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Web.Optimization.xml
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Web.Razor.xml
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Web.WebPages.xml
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Web.WebPages.Deployment.xml
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\System.Web.WebPages.Razor.xml
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\Antlr3.Runtime.pdb
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\obj\Debug\Lab_3.csprojAssemblyReference.cache
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.CoreCompileInputs.cache
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.CopyComplete
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\obj\Debug\Lab_3.dll
+D:\4\ВЕБ-сервисы\Lab_3\Lab_3\Lab_3\obj\Debug\Lab_3.pdb

@@ -1,0 +1,10 @@
+D:\4\ВЕБ-сервисы\PWS_7\PWS_7\bin\Debug\PWS_7.dll.config
+D:\4\ВЕБ-сервисы\PWS_7\PWS_7\bin\Debug\PWS_7.dll
+D:\4\ВЕБ-сервисы\PWS_7\PWS_7\bin\Debug\PWS_7.pdb
+D:\4\ВЕБ-сервисы\PWS_7\PWS_7\bin\Debug\Newtonsoft.Json.dll
+D:\4\ВЕБ-сервисы\PWS_7\PWS_7\bin\Debug\Newtonsoft.Json.xml
+D:\4\ВЕБ-сервисы\PWS_7\PWS_7\obj\Debug\PWS_7.csprojAssemblyReference.cache
+D:\4\ВЕБ-сервисы\PWS_7\PWS_7\obj\Debug\PWS_7.csproj.CoreCompileInputs.cache
+D:\4\ВЕБ-сервисы\PWS_7\PWS_7\obj\Debug\PWS_7.csproj.CopyComplete
+D:\4\ВЕБ-сервисы\PWS_7\PWS_7\obj\Debug\PWS_7.dll
+D:\4\ВЕБ-сервисы\PWS_7\PWS_7\obj\Debug\PWS_7.pdb

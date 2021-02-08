@@ -1,0 +1,10 @@
+D:\4\ВЕБ-сервисы\PWS_7\PWS_7_form\bin\Debug\PWS_7_form.exe.config
+D:\4\ВЕБ-сервисы\PWS_7\PWS_7_form\bin\Debug\PWS_7_form.exe
+D:\4\ВЕБ-сервисы\PWS_7\PWS_7_form\bin\Debug\PWS_7_form.pdb
+D:\4\ВЕБ-сервисы\PWS_7\PWS_7_form\obj\Debug\PWS_7_form.csprojAssemblyReference.cache
+D:\4\ВЕБ-сервисы\PWS_7\PWS_7_form\obj\Debug\PWS_7_form.Form1.resources
+D:\4\ВЕБ-сервисы\PWS_7\PWS_7_form\obj\Debug\PWS_7_form.Properties.Resources.resources
+D:\4\ВЕБ-сервисы\PWS_7\PWS_7_form\obj\Debug\PWS_7_form.csproj.GenerateResource.cache
+D:\4\ВЕБ-сервисы\PWS_7\PWS_7_form\obj\Debug\PWS_7_form.csproj.CoreCompileInputs.cache
+D:\4\ВЕБ-сервисы\PWS_7\PWS_7_form\obj\Debug\PWS_7_form.exe
+D:\4\ВЕБ-сервисы\PWS_7\PWS_7_form\obj\Debug\PWS_7_form.pdb

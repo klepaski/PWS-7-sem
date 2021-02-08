@@ -1,0 +1,89 @@
+{
+	"info": {
+		"_postman_id": "0bc50d8c-61cd-4690-88e8-a61e07916f69",
+		"name": "PWS_4",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "http://localhost:51199/Simplex.asmx/Sum_1",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "urlencoded",
+					"urlencoded": [
+						{
+							"key": "x",
+							"value": "8",
+							"type": "text"
+						},
+						{
+							"key": "y",
+							"value": "9",
+							"type": "text"
+						}
+					],
+					"options": {
+						"raw": {
+							"language": "text"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:51199/Simplex.asmx/Sum_1",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "51199",
+					"path": [
+						"Simplex.asmx",
+						"Sum_1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "http://localhost:51199/Simplex.asmx/Sum_1",
+			"protocolProfileBehavior": {
+				"disabledSystemHeaders": {
+					"content-type": true
+				}
+			},
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "text/xml",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "<?xml version=\"1.0\" encoding=\"utf-8\"?>\r\n<soap12:Envelope xmlns:xsi=\"http://www.w3.org/2001/XMLSchema-instance\" xmlns:xsd=\"http://www.w3.org/2001/XMLSchema\" xmlns:soap12=\"http://www.w3.org/2003/05/soap-envelope\">\r\n  <soap12:Body>\r\n    <Sum_1 xmlns=\"http://cja/\">\r\n      <x>8</x>\r\n      <y>9</y>\r\n    </Sum_1>\r\n  </soap12:Body>\r\n</soap12:Envelope>",
+					"options": {
+						"raw": {
+							"language": "xml"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://localhost:51199/Simplex.asmx",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "51199",
+					"path": [
+						"Simplex.asmx"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"protocolProfileBehavior": {}
+}

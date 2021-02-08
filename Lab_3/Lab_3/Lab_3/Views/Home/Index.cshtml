@@ -1,0 +1,253 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>index</title>
+    <meta charset="utf-8" />
+    <script src="../Scripts/jquery-3.3.1.js"></script>
+</head>
+
+<body>
+    <table width="100%" cellspacing="0" cellpadding="5">
+        <tr>
+            <td width="200" valign="top">
+                <table style="border: 1px solid black; padding: 5px; margin: 5px;">
+                    <tr>
+                        <td>sort</td>
+                        <td><input type="text" id="sort" /></td>
+                    </tr>
+                    <tr>
+                        <td>offset</td>
+                        <td><input type="text" id="offset" /></td>
+                    </tr>
+                    <tr>
+                        <td>limit</td>
+                        <td><input type="text" id="limit" /></td>
+                    </tr>
+                    <tr>
+                        <td>minid</td>
+                        <td><input type="text" id="minid" /></td>
+                    </tr>
+                    <tr>
+                        <td>maxid</td>
+                        <td><input type="text" id="maxid" /></td>
+                    </tr>
+                    <tr>
+                        <td>columns</td>
+                        <td><input type="text" id="columns" /></td>
+                    </tr>
+                    <tr>
+                        <td>like</td>
+                        <td><input type="text" id="like" /></td>
+                    </tr>
+                    <tr>
+                        <td>globalike</td>
+                        <td><input type="text" id="globalike" /></td>
+                    </tr>
+                    <tr>
+                        <td>format</td>
+                        <td><input type="text" id="format-gets" /></td>
+                    </tr>
+                </table>
+                <input style="margin: 5px" type="button" onclick="getStudents()" value="getStudets" />
+
+                <table style="border: 1px solid black; padding: 5px; margin: 5px;">
+                    <tr>
+                        <td>id</td>
+                        <td><input type="text" id="id-get" /></td>
+                    </tr>
+                    <tr>
+                        <td>format</td>
+                        <td><input type="text" id="format-get" /></td>
+                    </tr>
+                </table>
+                <input style="margin: 5px" type="button" onclick="getStudentById()" value="getStudentById" />
+
+            </td>
+            <td valign="top">
+                <table style="border: 1px solid black; padding: 5px; margin: 5px;">
+                    <tr>
+                        <td>name</td>
+                        <td><input type="text" id="name-post" /></td>
+                    </tr>
+                    <tr>
+                        <td>number</td>
+                        <td><input type="text" id="number-post" /></td>
+                    </tr>
+                    <tr>
+                        <td>format</td>
+                        <td><input type="text" id="format-post" /></td>
+                    </tr>
+                </table>
+                <input style="margin: 5px" type="button" onclick="addStudent()" value="addStudent" />
+
+                <table style="border: 1px solid black; padding: 5px; margin: 5px;">
+                    <tr>
+                        <td>id</td>
+                        <td><input type="text" id="id-put" /></td>
+                    </tr>
+                    <tr>
+                        <td>name</td>
+                        <td><input type="text" id="name-put" /></td>
+                    </tr>
+                    <tr>
+                        <td>number</td>
+                        <td><input type="text" id="number-put" /></td>
+                    </tr>
+                    <tr>
+                        <td>format</td>
+                        <td><input type="text" id="format-put" /></td>
+                    </tr>
+                </table>
+                <input style="margin: 5px" type="button" onclick="updateStudent()" value="updateStudent" />
+
+                <table style="border: 1px solid black; padding: 5px; margin: 5px;">
+                    <tr>
+                        <td>id</td>
+                        <td><input type="text" id="id-delete" /></td>
+                    </tr>
+                    <tr>
+                        <td>format</td>
+                        <td><input type="text" id="format-delete" /></td>
+                    </tr>
+                </table>
+                <input style="margin: 5px" type="button" onclick="deleteStudent()" value="deleteStudent" />
+            </td>
+        </tr>
+    </table>
+    <br>
+    <textarea id="result" name="result" style="width: 1155px; height: 200px;"></textarea>
+
+    <script>
+        function getStudents() {
+            let data = {};
+            if ($("#sort").val() != "") data["sort"] = $("#sort").val();
+            if ($("#offset").val() != "") data["offset"] = $("#offset").val();
+            if ($("#limit").val() != "") data["limit"] = $("#limit").val();
+            if ($("#minid").val() != "") data["minid"] = $("#minid").val();
+            if ($("#maxid").val() != "") data["maxid"] = $("#maxid").val();
+            if ($("#columns").val() != "") data["columns"] = $("#columns").val();
+            if ($("#like").val() != "") data["like"] = $("#like").val();
+            if ($("#globalike").val() != "") data["globalike"] = $("#globalike").val();
+            if ($("#format-gets").val() != "") data["format"] = $("#format-gets").val();
+            $.ajax({
+                url: "http://localhost:4413/api/students",
+                data: data,
+                type: "GET",
+                contentType: "multipart/form-data",
+                success: result => {
+                    if ($("#format-gets").val() == "xml") {
+                        var xmlText = new XMLSerializer().serializeToString(result);
+                        $("#result").val(xmlText);
+                    }
+                    else {
+                        $("#result").val(JSON.stringify(result));
+                    }
+                },
+                error: (error) => {
+                    console.log(error);
+                }
+            })
+        }
+        function getStudentById() {
+            let data = {};
+            if ($("#id-get").val() != "") data["id"] = $("#id-get").val();
+            if ($("#format-get").val() != "") data["format"] = $("#format-get").val();
+            $.ajax({
+                url: "http://localhost:4413/api/students/" + data["id"],
+                data: data,
+                type: "GET",
+                contentType: "multipart/form-data",
+                success: result => {
+                    if ($("#format-get").val() == "xml") {
+                        var xmlText = new XMLSerializer().serializeToString(result);
+                        $("#result").val(xmlText);
+                    }
+                    else {
+                        $("#result").val(JSON.stringify(result));
+                    }
+
+                },
+                error: (error) => {
+                    console.log(error);
+                }
+            })
+        }
+        function addStudent() {
+            let data = {};
+            if ($("#name-post").val() != "") data["name"] = $("#name-post").val();
+            if ($("#number-post").val() != "") data["number"] = $("#number-post").val();
+            if ($("#format-post").val() != "") data["format"] = $("#format-post").val();
+            $.ajax({
+                url: "http://localhost:4413/api/students?format=" + data["format"],
+                data: JSON.stringify(data),
+                type: "POST",
+                success: result => {
+                    if ($("#format-post").val() == "xml") {
+                        var xmlText = new XMLSerializer().serializeToString(result);
+                        $("#result").val(xmlText);
+                    }
+                    else {
+                        $("#result").val(JSON.stringify(result));
+                    }
+                },
+                error: (error) => {
+                    console.log(error);
+                }
+            })
+        }
+        function updateStudent() {
+            let data = {};
+            if ($("#id-put").val() != "") data["id"] = $("#id-put").val();
+            if ($("#name-put").val() != "") data["name"] = $("#name-put").val();
+            if ($("#number-put").val() != "") data["number"] = $("#number-put").val();
+            if ($("#format-put").val() != "") data["format"] = $("#format-put").val();
+            $.ajax({
+                url: "http://localhost:4413/api/students/" + data["id"] + "?format=" + data["format"],
+                data: JSON.stringify(data),
+                type: "PUT",
+                success: result => {
+                    if ($("#format-put").val() == "xml") {
+                        var xmlText = new XMLSerializer().serializeToString(result);
+                        $("#result").val(xmlText);
+                    }
+                    else {
+                        $("#result").val(JSON.stringify(result));
+                    }
+
+                },
+                error: (error) => {
+                    console.log(error);
+                }
+            })
+        }
+        function deleteStudent() {
+            let data = {};
+            if ($("#id-delete").val() != "") data["id"] = $("#id-delete").val();
+            if ($("#format-delete").val() != "") data["format"] = $("#format-delete").val();
+            $.ajax({
+                url: "http://localhost:4413/api/students/" + data["id"] + "?format=" + data["format"],
+                data: JSON.stringify(data),
+                type: "DELETE",
+                success: result => {
+                    if ($("#format-delete").val() == "xml") {
+                        var xmlText = new XMLSerializer().serializeToString(result);
+                        $("#result").val(xmlText);
+                    }
+                    else {
+                        $("#result").val(JSON.stringify(result));
+                    }
+
+                },
+                error: (error) => {
+                    console.log(error);
+                }
+            })
+        }
+    </script>
+</body>
+</html>
